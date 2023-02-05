@@ -1,0 +1,83 @@
+.wd-rounded-corners-all-around {
+    border-radius: 50px;
+}
+.wd-search {
+    width: 70%;
+    position: relative;
+    display: flex;
+    padding: 16px;
+}
+
+.wd-searchTerm {
+    background-color: darkgray;
+    width: 95%;
+    border: darkgray;
+    border-right: 16px;
+    padding: 5px;
+    height: 20px;
+    color: white;
+}
+
+.wd-link {
+    margin-left: 12px;
+}
+
+.wd-border-bottom {
+    padding: 16px;
+    font-size: 15px;
+    color: rgb(110, 118, 125);
+}
+
+.wd-color-lightgray {
+    color: rgb(110, 118, 125);
+}
+
+.wd-color-blue {
+    color: rgb(29,161,242);
+}
+.wd-border-bottom a:link {
+    border-bottom: 5px solid rgb(110, 118, 125);
+    padding: 16px;
+    text-decoration: none;
+}
+
+.wd-title {
+    font-size: 13px;
+    padding-top: 20px;
+}
+
+.wd-padding-16px-left {
+    padding-left: 16px;
+}
+
+.wd-topic {
+    font-size: 15px;
+    color: white;
+    padding-left:16px;
+}
+
+.wd-rating {
+    font-size: 15px;
+    padding-left:16px;
+    padding-bottom: 16px;
+}
+
+.wd-padding-16px {
+    padding-top: 16px;
+}
+
+
+.wd-border-bottom-trending {
+    border-bottom: 1px solid rgb(110, 118, 125);
+}
+
+.wd-color-white {
+    color: white;
+}
+
+.wd-rounded-corners3 {
+    border-radius: 25px;
+    padding-right: 12px;
+    float: right;
+}
+
