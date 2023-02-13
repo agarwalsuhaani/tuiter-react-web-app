@@ -1,0 +1,28 @@
+body {
+    padding: 20px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.wd-search-tuiter-icon {
+    bottom: 7px;
+    left: 10px;
+}
+
+.list-group-item a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    border-top: #FFFFFF;
+    border-right: #FFFFFF;
+    border-left: #FFFFFF;
+}
+
+.wd-border-bottom {
+    padding: 16px;
+    font-size: 15px;
+    color: rgb(29,161,242);
+}
