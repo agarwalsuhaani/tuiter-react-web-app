@@ -1,6 +1,4 @@
 export default [
-    // {   avatarIcon: 'C:/Users/agarw/OneDrive/Documents/Web Development/2023/spring/webdev/tuiter-react-web-app/public/tuiter/WhoToFollowList/images/matt.jpeg',
-    //     userName: 'Java', handle: 'Java', },
     {   avatarIcon: 'images/covid-19.jpeg',
         userName: 'Relativity Space',
         handle: 'relativityspace', },
