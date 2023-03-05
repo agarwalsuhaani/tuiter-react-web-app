@@ -1,0 +1,28 @@
+[
+  {
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/1200px-Elon_Musk_Royal_Society_%28crop2%29.jpg",
+    "author": "Elon Musk",
+    "userName": "@elonmusk",
+    "time": "23h",
+    "title": "Amazing show about @Inspiration4x mission!",
+    "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/01/931/523/MuskTeslaThumb.png?ve=1&tl=1",
+    "topic": "Countdown: Inspiration4 to launch",
+    "para": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n",
+    "comment": "4.2K",
+    "share": "3.5K",
+    "likes": "37.5K"
+  },
+  {
+    "logo": "https://theme.zdassets.com/theme_assets/968999/d8a347b41db1ddee634e2d67d08798c102ef09ac.jpg",
+    "author": "New York Post",
+    "userName":"@nypost",
+    "time": "last month",
+    "title": "Grimes seen reading Karl Max following split",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKU6rChVuZwmqa3mzYKjIsunpok7COcueFLJTb-KHw&s",
+    "topic": "Lorem Ipsum is a simple dummy text",
+    "para": "",
+    "comment": "965",
+    "share": "2.4K",
+    "likes": "4K"
+  }
+]
